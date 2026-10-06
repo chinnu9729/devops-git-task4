@@ -1,3 +1,3 @@
 # Merge Conflict Demonstration
 
-This change was created directly on the main branch.
+The merge conflict was intentionally created between the feature and main branches and successfully resolved.
